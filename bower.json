@@ -1,0 +1,11 @@
+{
+  "name": "cod",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "jquery": "~1.11.1"
+  },
+  "devDependencies": {
+    "requirejs": "~2.1.14"
+  }
+}
